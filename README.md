@@ -3,6 +3,7 @@
 To run this project
 
 For frontend:
+open a terminal for frontend folder
 1. npm i
 2. npm run dev
 
