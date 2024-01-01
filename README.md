@@ -12,7 +12,6 @@ For backend:
     NODE_ENV = "development"
     PORT = 3001
 
-    #JWT SECRET KEY
     JWT_SECRET_KEY = ""
 
     HASHING_SALTS = "12"
